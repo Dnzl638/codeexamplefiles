@@ -1,0 +1,14 @@
+c:\Users\deniz\Desktop\codeexamplefiles\chesstest\bin\Debug\net9.0\chesstest.exe
+c:\Users\deniz\Desktop\codeexamplefiles\chesstest\bin\Debug\net9.0\chesstest.deps.json
+c:\Users\deniz\Desktop\codeexamplefiles\chesstest\bin\Debug\net9.0\chesstest.runtimeconfig.json
+c:\Users\deniz\Desktop\codeexamplefiles\chesstest\bin\Debug\net9.0\chesstest.dll
+c:\Users\deniz\Desktop\codeexamplefiles\chesstest\bin\Debug\net9.0\chesstest.pdb
+c:\Users\deniz\Desktop\codeexamplefiles\chesstest\obj\Debug\net9.0\chesstest.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\deniz\Desktop\codeexamplefiles\chesstest\obj\Debug\net9.0\chesstest.AssemblyInfoInputs.cache
+c:\Users\deniz\Desktop\codeexamplefiles\chesstest\obj\Debug\net9.0\chesstest.AssemblyInfo.cs
+c:\Users\deniz\Desktop\codeexamplefiles\chesstest\obj\Debug\net9.0\chesstest.csproj.CoreCompileInputs.cache
+c:\Users\deniz\Desktop\codeexamplefiles\chesstest\obj\Debug\net9.0\chesstest.dll
+c:\Users\deniz\Desktop\codeexamplefiles\chesstest\obj\Debug\net9.0\refint\chesstest.dll
+c:\Users\deniz\Desktop\codeexamplefiles\chesstest\obj\Debug\net9.0\chesstest.pdb
+c:\Users\deniz\Desktop\codeexamplefiles\chesstest\obj\Debug\net9.0\chesstest.genruntimeconfig.cache
+c:\Users\deniz\Desktop\codeexamplefiles\chesstest\obj\Debug\net9.0\ref\chesstest.dll
